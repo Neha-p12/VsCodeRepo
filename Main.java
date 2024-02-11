@@ -4,6 +4,6 @@ public class Main
     {
         System.out.println("Hello");
         System.out.println("Main Class from vscode");
-        System.out.println("connect with a git");
+        System.out.println("connected with a git");
     }
 }
